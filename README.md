@@ -71,6 +71,7 @@ A curated collection of research papers I'm reading, have read, or plan to read.
 
 ### 🔒 Privacy
 - **[Privacy and Security Challenges in Large Language Models](https://ieeexplore.ieee.org/abstract/document/10903912)** - Vishal Rathod, Seyedsina Nabavirazavi, Samira Zad, Sundararaja Sitharama Iyengar (2025)
+- **[SoK: Security and Privacy Risks of Healthcare AI](https://arxiv.org/abs/2409.07415)** - Yuanhaur Chang, Han Liu, Chenyang Lu, Ning Zhang (2024)
 
 ### 🔬 Multimodal
 - **[Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/abs/2102.12092)** - Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever (2021)
