@@ -70,6 +70,7 @@ A curated collection of research papers I'm reading, have read, or plan to read.
 - **[MEETI: A Multimodal ECG Dataset from MIMIC-IV-ECG with Signals, Images, Features and Interpretations](https://arxiv.org/abs/2507.15255)** - Deyun Zhang, Xiang Lan, Shijia Geng, Qinghao Zhao, Sumei Fan, Mengling Feng, Shenda Hong (2025)
 
 ### 🔒 Privacy
+- **[Communication-Efficient Learning of Deep Networks from Decentralized Data (Federated Learning)](https://arxiv.org/abs/1602.05629)** - H. Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas (2016)
 - **[Privacy and Security Challenges in Large Language Models](https://ieeexplore.ieee.org/abstract/document/10903912)** - Vishal Rathod, Seyedsina Nabavirazavi, Samira Zad, Sundararaja Sitharama Iyengar (2025)
 - **[SoK: Security and Privacy Risks of Healthcare AI](https://arxiv.org/abs/2409.07415)** - Yuanhaur Chang, Han Liu, Chenyang Lu, Ning Zhang (2024)
 
@@ -77,7 +78,9 @@ A curated collection of research papers I'm reading, have read, or plan to read.
 - **[Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/abs/2102.12092)** - Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever (2021)
 - **[Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020)** - Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, et al. (2021)
 - **[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)** - Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi (2022)
+- **[Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343)** - Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer (2023)
 - **[Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)** - Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee (2023)
+- **[Med-Flamingo: a Multimodal Medical Few-shot Learner](https://arxiv.org/abs/2307.15189)** - Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, Cyril Zakka, Yash Dalmia, Eduardo Pontes Reis, Pranav Rajpurkar, Jure Leskovec (2023)
 - **[CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://arxiv.org/abs/2503.07667)** - Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, Haowen Wei, Hejie Cui, Paul Pu Liang (2025)
 - **[Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)** - Qwen Team, Alibaba (2025)
 
