@@ -53,6 +53,7 @@ A curated collection of research papers I'm reading, have read, or plan to read.
 - **[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)** - Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, et al. (2021)
 - **[The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)** - Meta AI (2024)
 - **[Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)** - Qwen Team, Alibaba (2024)
+- **[Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)** - Gemma Team, Google DeepMind (2025)
 
 ### 📊 Physiological Signals
 - **[ENCASE: an ENsemble ClASsifiEr for ECG Classification Using Expert Features and Deep Neural Networks](https://www.cinc.org/archives/2017/pdf/178-245.pdf)** - Shenda Hong, Meng Wu, Yuxi Zhou, Qingyun Wang, Junyuan Shang, Hongyan Li, Junqing Xie (2017)
@@ -81,6 +82,7 @@ A curated collection of research papers I'm reading, have read, or plan to read.
 - **[Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343)** - Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer (2023)
 - **[Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)** - Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee (2023)
 - **[Med-Flamingo: a Multimodal Medical Few-shot Learner](https://arxiv.org/abs/2307.15189)** - Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, Cyril Zakka, Yash Dalmia, Eduardo Pontes Reis, Pranav Rajpurkar, Jure Leskovec (2023)
+- **[Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966)** - Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou (2023)
 - **[CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://arxiv.org/abs/2503.07667)** - Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, Haowen Wei, Hejie Cui, Paul Pu Liang (2025)
 - **[Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)** - Qwen Team, Alibaba (2025)
 
